@@ -1,6 +1,6 @@
-# Hi there! ⎛⎝ ≽ > ⩊ < ≼ ⎠⎞ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-- 🏦 I'm a Machine Learning Engineer working on Computer Vision ( Multi Object Detection - YOLO algorithms)
-<!-- - 🌐 My own website: [1y33.github.io](https://1y33.github.io/) -->
+# Hi there! 🤠 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+- 🏦 I'm a Artificial intelligence and Machine Learning Engineer working on Computer Vision ( Multi Object Detection - YOLO algorithms)
+
 - 📖 I like learning new things and putting the latest research into practice through various projects.
 - 💻 I’m passionate about reading programming books and creating new tech ideas.
 - 🧑‍💻 Tech I work on :
